@@ -6,4 +6,10 @@ class User {
 		password(password:true)
 		name()
 	  }
+	  String password
+	  String name
+	  
+	  String toString(){
+		name
+}
 }
